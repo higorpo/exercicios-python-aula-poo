@@ -1,0 +1,1 @@
+# A média geométrica de uma série de valores [a1, a2, …, an] é dada pela raiz n-ésima do produto dos elementos deste conjunto, onde n corresponde à cardinalidade deste conjunto. Calcule, então, a média geométrica de um conjunto de valores reais, os quais estão em n linhas distas, cada uma deles com um único valor.
